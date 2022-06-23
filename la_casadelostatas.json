@@ -1,0 +1,10 @@
+[
+{"url":"cajon_tata.wav","type":"audio","bank":"cajon_tata","n":0},
+{"url":"escaleras_tatas.wav","type":"audio","bank":"escaleras","n":1},
+{"url":"tic_tac.wav","type":"audio","bank":"tic_tac","n":2},
+{"url":"puerta_tatas_adentro.wav","type":"audio","bank":"puerta_adentro","n":3},
+{"url":"puerta_tatas_afuera.wav","type":"audio","bank":"puerta_afuera","n":4}
+
+ 
+
+ ]
